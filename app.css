@@ -161,13 +161,3 @@ footer .btn{
 	text-align: center;
 	text-decoration: none;
   }
-
-
-@media (max-width:680px){ 
-	.col img{
-		max-width: 100%;
-		margin-bottom: 10px;
-		flex-basis: 100%;
-		width: auto;
-	}
-}
